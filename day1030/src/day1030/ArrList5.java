@@ -13,7 +13,7 @@ public class ArrList5 {
 		
 		
 		list.add(0, new Board("title", "con", "wri"));
-		list.add(1, new Board("title2", "con", "wri"));
+		list.add(1, new Board("title2", "con", "wri")); 
 		list.add(2, new Board("title3", "con", "wri"));
 		list.add(3, new Board("title4", "con", "wri"));
 		list.add(4, new Board("title5", "con", "wri"));
